@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1929,
+      "sha256": "0b1f721186eac6a36a394147067ed30695ec31f9945e4d2d0f3afa2a2a6db981"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 239156,
+      "sha256": "c16a8f29e3b37729751b4f9967bbce17d2bd029ac011ffc5073c3bb12d07a6f2"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2512513,
+      "sha256": "4f92b32c06b1f30c479a53b261c064a440d5eb011562ebfbd56315121c46b18d"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 308,
+      "sha256": "efb32d43fc65424a53770c7cb5e81b694dc945a57186f42b585cd018c1f0d91b"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "cd5773b62e8fbdb9b6a69398cf451108f9e2795ae0c3bad1fe0ff7f60c1b8ce2"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 265785,
+      "sha256": "a7fc05d552c2f68f67c39de63746eff5df74873d5413c11d0b692139202e5c17"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 751,
+      "sha256": "5c28fc11f30e41e5995743097c3198ab8ced373ba47548e47e815efea7a4610c"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 751,
+      "sha256": "5c28fc11f30e41e5995743097c3198ab8ced373ba47548e47e815efea7a4610c"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1844,
+      "sha256": "edcffb4781238c1a80e673e6612c3835251700d263b458916c3e4ef2d4f99b46"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25174,
+      "sha256": "98e12630b7abbebea440cf9560c821890526f9a7964955ff488f6cf5d726b327"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 103681,
+      "sha256": "77ba30e6fbf4ab51b99afb7c0e45869d4647fd4dbf3d8221e7d177acbb9bbe54"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2504,
+      "sha256": "0099e66a989b53b95cb116524535f568ca9d4433c803b28997606e1ae4467245"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "336c98a08369fae006fe0e9bc4b789fdabbcd730b1b9990615a332b6d2507c7e"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1223,
+      "sha256": "833616130aab8f6a461b80123f1da5f9863f6a1dc7d48b3b34f9fe08ed27bb11"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 387,
+      "sha256": "faaa0dea881fa21877761c5c5d0265cb5fdf32e0d9a47d040d92fccfd8bde4fa"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "a2ef8bc6788d0855501137ad5e74780a17cc8ca590989255ae63fa76996dd5a1"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z0401-melody-01.mid",
+      "bytes": 169,
+      "sha256": "25581d1788593b1549d9f7b871dc3a36ed9a2a898971e5e503f04b361292a204"
+    },
+    {
+      "path": "clips/z0401-melody-02.mid",
+      "bytes": 169,
+      "sha256": "11e0b06c17e3652bbe30b867fd17f5f577440939e296cf91e34bcea7df9d3791"
+    },
+    {
+      "path": "clips/z0401-melody-03.mid",
+      "bytes": 124,
+      "sha256": "6fe4f1c02b61d21f5f511dde7c3aaf55d5af4b34a5b4314ac070ceb398ec3dc3"
+    },
+    {
+      "path": "clips/z0401-melody-04.mid",
+      "bytes": 124,
+      "sha256": "3fa1430e93f3879775be174bff55570a7d85abf41f5f88dce4b89c4b9b38ab94"
+    },
+    {
+      "path": "clips/z0402-melody-01.mid",
+      "bytes": 169,
+      "sha256": "681495d7cb886bfde1432d9c78a40fad99a3d87dad791302032256c2374348eb"
+    },
+    {
+      "path": "clips/z0402-melody-02.mid",
+      "bytes": 169,
+      "sha256": "934a461d92d8ffaeb665f21f473835d2b45e6c4e45977ac4ef717ad6a2366d7a"
+    },
+    {
+      "path": "clips/z0402-melody-03.mid",
+      "bytes": 124,
+      "sha256": "89562b1e8829cb36c57b6cc2f855944984cd3c9acf4d91f5d62d23bc6bdd71fc"
+    },
+    {
+      "path": "clips/z0402-melody-04.mid",
+      "bytes": 124,
+      "sha256": "2ffd07a3ea4c52bcc2d4706c3adb010bac7fd6bc372a35fe8a4432b7452002b0"
+    },
+    {
+      "path": "clips/z0403-melody-01.mid",
+      "bytes": 169,
+      "sha256": "08ab6eef8554be245481fd5324c9ebbc5f506f9d1ec34d724faf87bac4265464"
+    },
+    {
+      "path": "clips/z0403-melody-02.mid",
+      "bytes": 169,
+      "sha256": "5e8da5cf0464b66cddf05dc1dc34b8903bbd914144a9f207c6e1a18d510a195c"
+    },
+    {
+      "path": "clips/z0403-melody-03.mid",
+      "bytes": 106,
+      "sha256": "a07a7a8740b4718ccfaa3ca244b5b633d63119b5d0e9341553b38c028bf7ff6a"
+    },
+    {
+      "path": "clips/z0403-melody-04.mid",
+      "bytes": 106,
+      "sha256": "4f5ed638af2322c640d7d350b49050a9f9854c30f6d8a2a0c5105d7c2a4ec572"
+    },
+    {
+      "path": "clips/z0404-melody-01.mid",
+      "bytes": 169,
+      "sha256": "06a672dfaf050f2dffc43ac0a878e3ffba058d9ff663f56d4eccecfe38b2442a"
+    },
+    {
+      "path": "clips/z0404-melody-02.mid",
+      "bytes": 169,
+      "sha256": "e50967ce731e8550c2451b1e7e330f0d81697df6ac0a6d5b74389bad8ac76fc4"
+    },
+    {
+      "path": "clips/z0404-melody-03.mid",
+      "bytes": 106,
+      "sha256": "3ad5a06be76ca4a016bd4d049b845098f2803c7ce3b70baa44f05533d8a285d2"
+    },
+    {
+      "path": "clips/z0404-melody-04.mid",
+      "bytes": 106,
+      "sha256": "7ea3c1a9b18bba26111b5423fa6a802277e1929679ac705f884a8b0b711212e6"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 436,
+      "sha256": "680646eee6006ee0ff821c1a4f64cd78918e63937dfa2fb09b9afca39c4014c7"
+    },
+    {
+      "path": "downloads/vocal-garage-house-hooks-midi.zip",
+      "bytes": 32013,
+      "sha256": "b6fbe1dd9a844d9a34103c0302327fb927aec61633c7b167c20fb2c44f3f6a9a"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2849,
+      "sha256": "b4989c8dc85f60a7fe9c504205144ab0cd598251521cde52c6b31d51f3f40bad"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 34474,
+      "sha256": "8b7adb96ab58806fa1fca5b1c6e9a9bd121cbac22a3b15ffb8056ac89bb1d221"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 203737,
+      "sha256": "2d671d1d6e47e104a2af26f2887d7e0c8022d6123398c664507e9f9b51da8ccb"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 846072,
+      "sha256": "2a7fc5d299d5dfd91ae6e9c05e77e0ef1b90c4d967b54952c45028e876786e55"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1230,
+      "sha256": "110e226318d227d8c501caeb285b8ee7ce39e4398d6c621907fab1b092d408dc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10020,
+      "sha256": "321a35510a36bd578207543ef6445ef06b9044d2bdfe4b2feb97e66fe2607660"
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "2a8159c491b32b53691cf8ae70e48022ed916e56aa6c7e468a9c8606fae95e41"
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c522d0cbea6c57e08242df2a9a8602d5c34d708c66c3221662e778a591036f4f"
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/principal_motif.mid",
+      "bytes": 835,
+      "sha256": "94e2a9a27814bd79ecb5c549c69f0fa0a7429186c1010248026fc8768651123e"
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "39b49d7e22defecc9bd9a46d24a3a150062653ce6354c7310592fd6934703f44"
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "153e33bde99c775d04ee09b61b1c08ebf1c3525445e8adcb53ca7997bba82e29"
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/z0401-vocal-garage-house-hooks-opening-combined.mid",
+      "bytes": 6056,
+      "sha256": "5d423b9022b1a0afd200e83e8e1ebcdfae51671ce39bc2d7b68055cff800c582"
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "3ac8ec44fbe1c8e0c58b11299504c410c66ac5fc72222186bc16420bb273a79f"
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b85d2bb5afd9a302c48b57c090cfacda5c0e6672f8b674732aff21f20e9a88b8"
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/principal_motif.mid",
+      "bytes": 835,
+      "sha256": "87f45c0fe2935e66fb990ea07fecd0575bb07f61b6b52e16db8d75471e9de1f9"
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "eacc0d799be48a0dabbf55ef1c8a90b111d2431168465c3c67f19deb9a7acf4c"
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "069522e88b54ff56e59826916bf17a840c5717712bdd8bc4b4245a93458e89b2"
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/z0402-vocal-garage-house-hooks-variation-combined.mid",
+      "bytes": 6056,
+      "sha256": "63bae35b730526f7eddad0d8961187b6b1e3a8b1f27d0da52cc54ffad320e28d"
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "9f7637bedd2b7e5164d3e931eb7ff69f1b50ec843b86a1767d6e269d7a9d3169"
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "cadabdf5024b097cf4df4f1daa83c21b7e0ae2ae909f32e4a6e6037cc87712ae"
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "9018b9a9d420d0b2bfb8cc360c0edc3801a3081805728a7c8113d0fc98f84e49"
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "e865da6c9fa8e3804cbce80b98fef72781185527a645dbc4faa4deff1e976f93"
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af865fbe96dce1cb8dd01e13e1f58c8173cc7d007e5e335728db44f509ca1c7"
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/z0403-vocal-garage-house-hooks-contrast-combined.mid",
+      "bytes": 6020,
+      "sha256": "1ea7c2cf089dd1869e577e7a28671d68eabe2be01279d07620844979be4ed843"
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "4b050f24ab926ab060de04f2ddeb75268c63e8fe78497c998174abc2761b389b"
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "430b528c77b0d33143dd31fc2a436288d92f6c850509b3efbfc514798e938ae2"
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "1bb31fd1eae157969e10f27201dcdc9a75905e023846fba1169a76e718ee0222"
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "78bce4daaa0807bc756e98a0aac0431c9b0cc0d8c2b086c1e67d19a7e14fa305"
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c"
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/z0404-vocal-garage-house-hooks-return-combined.mid",
+      "bytes": 6020,
+      "sha256": "5fbd2e141711434f818d3bc8ff302239744f2e68e26f2574ef74b21f73693bf9"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1182,
+      "sha256": "2492fe1610ded8f2ea42327b330c2849cf5627515689b41ab3701f44a5862fdf"
+    },
+    {
+      "path": "preview/vocal-garage-house-hooks-simple-synth-preview.mp3",
+      "bytes": 1524132,
+      "sha256": "bc3981f4c82a47d32dfd0e9b856459c4688202ff31b35348928deaf2f08cdac6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3989,
+      "sha256": "09397f40c024ae6a30f1e9873b846cb2ce5b8338c6103bb8f8c883fa8a9a77a6"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 227,
+      "sha256": "d0b1ea3a7e2927ac7cd4935e951c11165b6f361efed85777ecf402e8932ec7b3"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 274696,
+      "sha256": "6129e0da29b36d56b7a9cfc326e0a375c36a1136e3570a43f9b2e4a3e590b0ce"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 240710,
+      "sha256": "f1a5a0a0cff49066dbc6f9012082edff2a0e430bd3c0a06cd6aa1a9021bfda98"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 215036,
+      "sha256": "279274c15588c763d5ebef47dffcb2315f45aed6fc624bdca44e71814fe210b0"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 189,
+      "sha256": "3b0bc9e4f5c8c3f8192aaaa227b3663447c25d161b4055e13713e5222b4ae253"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13315,
+      "sha256": "546f769ec47122ed4d3122582cbe1c04ea10b8625e0c83ca66e5dfca9a70ea9a"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

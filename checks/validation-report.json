@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:43.744250+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "2a8159c491b32b53691cf8ae70e48022ed916e56aa6c7e468a9c8606fae95e41",
+      "errors": []
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c522d0cbea6c57e08242df2a9a8602d5c34d708c66c3221662e778a591036f4f",
+      "errors": []
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/principal_motif.mid",
+      "bytes": 835,
+      "sha256": "94e2a9a27814bd79ecb5c549c69f0fa0a7429186c1010248026fc8768651123e",
+      "errors": []
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "39b49d7e22defecc9bd9a46d24a3a150062653ce6354c7310592fd6934703f44",
+      "errors": []
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "153e33bde99c775d04ee09b61b1c08ebf1c3525445e8adcb53ca7997bba82e29",
+      "errors": []
+    },
+    {
+      "path": "midi/z0401-vocal-garage-house-hooks-opening/z0401-vocal-garage-house-hooks-opening-combined.mid",
+      "bytes": 6056,
+      "sha256": "5d423b9022b1a0afd200e83e8e1ebcdfae51671ce39bc2d7b68055cff800c582",
+      "errors": []
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "3ac8ec44fbe1c8e0c58b11299504c410c66ac5fc72222186bc16420bb273a79f",
+      "errors": []
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b85d2bb5afd9a302c48b57c090cfacda5c0e6672f8b674732aff21f20e9a88b8",
+      "errors": []
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/principal_motif.mid",
+      "bytes": 835,
+      "sha256": "87f45c0fe2935e66fb990ea07fecd0575bb07f61b6b52e16db8d75471e9de1f9",
+      "errors": []
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "eacc0d799be48a0dabbf55ef1c8a90b111d2431168465c3c67f19deb9a7acf4c",
+      "errors": []
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "069522e88b54ff56e59826916bf17a840c5717712bdd8bc4b4245a93458e89b2",
+      "errors": []
+    },
+    {
+      "path": "midi/z0402-vocal-garage-house-hooks-variation/z0402-vocal-garage-house-hooks-variation-combined.mid",
+      "bytes": 6056,
+      "sha256": "63bae35b730526f7eddad0d8961187b6b1e3a8b1f27d0da52cc54ffad320e28d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "9f7637bedd2b7e5164d3e931eb7ff69f1b50ec843b86a1767d6e269d7a9d3169",
+      "errors": []
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "cadabdf5024b097cf4df4f1daa83c21b7e0ae2ae909f32e4a6e6037cc87712ae",
+      "errors": []
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "9018b9a9d420d0b2bfb8cc360c0edc3801a3081805728a7c8113d0fc98f84e49",
+      "errors": []
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "e865da6c9fa8e3804cbce80b98fef72781185527a645dbc4faa4deff1e976f93",
+      "errors": []
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af865fbe96dce1cb8dd01e13e1f58c8173cc7d007e5e335728db44f509ca1c7",
+      "errors": []
+    },
+    {
+      "path": "midi/z0403-vocal-garage-house-hooks-contrast/z0403-vocal-garage-house-hooks-contrast-combined.mid",
+      "bytes": 6020,
+      "sha256": "1ea7c2cf089dd1869e577e7a28671d68eabe2be01279d07620844979be4ed843",
+      "errors": []
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "4b050f24ab926ab060de04f2ddeb75268c63e8fe78497c998174abc2761b389b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "430b528c77b0d33143dd31fc2a436288d92f6c850509b3efbfc514798e938ae2",
+      "errors": []
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/principal_motif.mid",
+      "bytes": 799,
+      "sha256": "1bb31fd1eae157969e10f27201dcdc9a75905e023846fba1169a76e718ee0222",
+      "errors": []
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "78bce4daaa0807bc756e98a0aac0431c9b0cc0d8c2b086c1e67d19a7e14fa305",
+      "errors": []
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c",
+      "errors": []
+    },
+    {
+      "path": "midi/z0404-vocal-garage-house-hooks-return/z0404-vocal-garage-house-hooks-return-combined.mid",
+      "bytes": 6020,
+      "sha256": "5fbd2e141711434f818d3bc8ff302239744f2e68e26f2574ef74b21f73693bf9",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

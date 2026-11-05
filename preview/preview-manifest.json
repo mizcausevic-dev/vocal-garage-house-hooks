@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/vocal-garage-house-hooks-simple-synth-preview.mp3",
+  "preview_sha256": "bc3981f4c82a47d32dfd0e9b856459c4688202ff31b35348928deaf2f08cdac6",
+  "source_midi_path": "midi/z0401-vocal-garage-house-hooks-opening/z0401-vocal-garage-house-hooks-opening-combined.mid",
+  "source_midi_sha256": "5d423b9022b1a0afd200e83e8e1ebcdfae51671ce39bc2d7b68055cff800c582",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z0401",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.117894,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

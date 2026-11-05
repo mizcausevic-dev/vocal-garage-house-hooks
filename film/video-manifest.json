@@ -1,0 +1,26 @@
+{
+  "title": "Vocal Garage House Hooks",
+  "study": "z0401",
+  "bpm": 122,
+  "source_audio": "preview/vocal-garage-house-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "bc3981f4c82a47d32dfd0e9b856459c4688202ff31b35348928deaf2f08cdac6",
+  "source_midi": "midi/z0401-vocal-garage-house-hooks-opening/z0401-vocal-garage-house-hooks-opening-combined.mid",
+  "source_midi_sha256": "5d423b9022b1a0afd200e83e8e1ebcdfae51671ce39bc2d7b68055cff800c582",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "77ba30e6fbf4ab51b99afb7c0e45869d4647fd4dbf3d8221e7d177acbb9bbe54",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "c16a8f29e3b37729751b4f9967bbce17d2bd029ac011ffc5073c3bb12d07a6f2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "2a7fc5d299d5dfd91ae6e9c05e77e0ef1b90c4d967b54952c45028e876786e55",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
