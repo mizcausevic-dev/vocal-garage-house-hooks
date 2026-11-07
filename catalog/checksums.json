@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/vocal-garage-house-hooks-midi.zip",
-      "bytes": 32013,
-      "sha256": "b6fbe1dd9a844d9a34103c0302327fb927aec61633c7b167c20fb2c44f3f6a9a"
+      "bytes": 33000,
+      "sha256": "6795626decf822094e92a0554dc56c99067be01d9f3f5acf1bd3b846c35fbadc"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10020,
-      "sha256": "321a35510a36bd578207543ef6445ef06b9044d2bdfe4b2feb97e66fe2607660"
+      "bytes": 10210,
+      "sha256": "9e84d28babe7638879ed098e9e42bb1374c32740f687f511e3c3ff7783f345cb"
     },
     {
       "path": "midi/z0401-vocal-garage-house-hooks-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "5fbd2e141711434f818d3bc8ff302239744f2e68e26f2574ef74b21f73693bf9"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1182,
       "sha256": "2492fe1610ded8f2ea42327b330c2849cf5627515689b41ab3701f44a5862fdf"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3995,
-      "sha256": "0c2a06bdfaa9c22cbbd52487d50fa575be75f1847831363630d075361745ea6b"
+      "bytes": 4110,
+      "sha256": "eb19f35267e34930f27b5751271105ddd2462ad721cc1b8660c9a59a1f023129"
     },
     {
       "path": "social/instagram/caption.txt",
